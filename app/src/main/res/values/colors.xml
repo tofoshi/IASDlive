@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    --colores IASD
+
+    <color name="colorone">#448d21</color>
+    <color name="colortwo">#3E8391</color>
+    <color name="colorthree">#FFA92D</color>
+    <color name="colorfour">#4D7549</color>
+    <color name="colorfive">#FFFFFF</color>
+    <color name="colorsix">#000000</color>
+
+</resources>

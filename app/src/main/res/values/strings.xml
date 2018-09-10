@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IASD live</string>
+    <string name="todo">Icono de la IASD</string>
+    <string name="hinttxt">Usuario</string>
+    <string name="hintpass">Contraseña</string>
+    <string name="btnregistrar">Registrar</string>
+    <string name="txtQuSo">Acerca de Nosotros</string>
+    <string name="sp">Icono de la IASD en Splash Screen</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+</resources>
